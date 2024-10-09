@@ -1,5 +1,4 @@
 # Unhinged - Dating App Prototype 
-Project for UCLA CS 32 -- https://web.cs.ucla.edu/classes/winter22/cs32/Projects/4/spec.pdf
 
 Unhinged can support more than 100k members; members.txt pre-populates it with 100k members.
 Each member can have dozens of attribute-value pairs -- e.g "hobby" -> "basketball".
